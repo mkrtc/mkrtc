@@ -38,11 +38,11 @@ I build frontend apps with a custom, NestJS-inspired structure:
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mkrtc&show_icons=true&theme=radical" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkrtc&layout=compact&theme=radical" />
-</p>
+![Mkrtc's Stats](https://github-readme-stats.vercel.app/api?username=Mkrtc&theme=default&show_icons=true&hide_border=true&count_private=true)
+
+![Mkrtc's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mkrtc&theme=default&hide_border=true)
+
+![Mkrtc's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mkrtc&theme=default&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
