@@ -30,19 +30,19 @@ I build frontend apps with a custom, NestJS-inspired structure:
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="https://t.me/YOUR_USERNAME"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/mkrweb"><img src="https://img.shields.io/badge/@MkrWeb-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:mkrtc.sarkis@gmail.com"><img src="https://img.shields.io/badge/mkrtc.sarkis@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 📈 GitHub Stats
-
-![Mkrtc's Stats](https://github-readme-stats.vercel.app/api?username=Mkrtc&theme=default&show_icons=true&hide_border=true&count_private=true)
-
-![Mkrtc's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mkrtc&theme=default&hide_border=true)
-
-![Mkrtc's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mkrtc&theme=default&show_icons=true&hide_border=true&layout=compact)
+<div align="center">
+  
+  ![mkrtc's Stats](https://github-readme-stats.vercel.app/api?username=mkrtc&theme=react&show_icons=true&hide_border=true&count_private=true)
+  ![mkrtc's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mkrtc&theme=react&hide_border=true)
+  
+</div>
 
 ---
 
